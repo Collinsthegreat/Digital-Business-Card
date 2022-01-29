@@ -99,3 +99,9 @@ p{
     justify-content: center;
     gap: 0.5em;
 }
+a, a:link, a:visited, a:hover, a:active, a:focus{
+    color: #00000000;
+}
+.icons a{
+    color:#fff !important;
+}
